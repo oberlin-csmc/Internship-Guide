@@ -36,7 +36,7 @@ Interviewing is a numbers game. the more places you apply to, the more likely yo
 Apply to as many places as possible, as quickly as possible. If a company requires any short answer questions you can't do in 5 min, skip them. Intern supply, easy applications, and massive company list are good for this.
 
 #### Strategy 2
-Put careful effort into companies you *really* want to work for. These are the companies you cold-email or reach out to alumni for. LinkedIn, Angel List, Wisr, and Cold-emailing are good for this.
+Put careful effort into companies you *really* want to work for. These are the companies you cold-email or reach out to alumni for. LinkedIn, Angel List, Wisr, and Cold-emailing are good for this. The Oberlin College Computer Science group is still growing and connects you with alumni in "the industry": https://www.linkedin.com/groups/8416892/
 
 # Get noticed
 
