@@ -1,10 +1,10 @@
 # Prepare
 
-I would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide a read. The rest of this is stuff I found helpful in getting started.
+We would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide a read. The rest of this is stuff we found helpful in getting started.
 
 **If you are a sophomore or freshman, scroll to the bottom of the above guide. There are opportunities especially for you :)**
 
-My anecdote: I did essentially nothing my Sophomore summer, and physics research (which I didn't put on my resume) the summer before. After following a lot of this advice and applying to a lot of places, I ended up with an internship at a good company. So do not fret, all will be ok. 
+Isabel's anecdote: I did essentially nothing my Sophomore summer, and physics research (which I didn't put on my resume) the summer before. After following a lot of this advice and applying to a lot of places, I ended up with an internship at a good company. So do not fret, all will be ok. 
 
 # Find companies
 
@@ -12,8 +12,9 @@ My anecdote: I did essentially nothing my Sophomore summer, and physics research
 
 - [Handshake](https://oberlin.joinhandshake.com/login)
 - [Intern Supply](http://www.intern.supply/) 
+- [StackOverflow Jobs](https://stackoverflow.com/jobs)
 - LinkedIn Jobs	
-- [Angel List](https://angel.co/)
+- [Angel List](https://angel.co/) for startups
 - [Indeed](https://www.indeed.com/)
 - [Easy-applications](https://github.com/j-delaney/easy-application)
 - [Massive company list](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
@@ -22,12 +23,16 @@ My anecdote: I did essentially nothing my Sophomore summer, and physics research
 You can also brainstorm companies you use in your everyday life, have heard a lot about, or think are particularly cool. Anything is up for grabs!
 
 
-*Notes: I tried Handshake, Intern Supply, cold-calls, and LinkedIn*
+*Isabel's experiences:*
 
 **Handshake** was a mixed bag - some were really good companies, one I applied to literally had me do a user test for them then never scheduled a phone interview.  
 **Intern supply** had the best known/ highest paying companies   
 **LinkedIn** had the best response rate  
 **Cold-emailling** had lower hit-rates, but the companies who responded were really impressed. It opened some cool doors to work with them in the future. 
+
+*Adina's experiences:*
+
+I tend to find most jobs are posted on all the main job posting sites. Some sites (LinkedIn, StackOverflow, Indeed, probably others) let you set up email alerts for specific searches (ex. "Software Engineer Intern") so they'll email you when new matching jobs are posted. Personally I really like StackOverflow because it's specifically tech jobs, they seem to have a higher bar for what they post, and the ads have to specify experience level, location, whether they sponsor visas, etc. LinkedIn in my experience is the best balance of having the most job postings while also not being a huge headache to browse. Also it'll tell you if you have a LinkedIn connection who works there!
 
 ### Vary the Way you apply
 Interviewing is a numbers game. the more places you apply to, the more likely you are to get an internship. ***However***, for each internship, you're in tough stuff cause you have to be the best out of all the candidates!!! That's why it's important to ***vary the way you apply***. 
@@ -48,7 +53,7 @@ Speaking with an Actual Human in the interview process is IDEAL, especially if t
 
 **Note: for LinkedIn you need to join Oberlin College and Conservatory _group_ + follow Oberlin college*
 
-What I found to be helpful was asking alumni to talk about their post-oberlin experience, then at the very end (and only if you felt comfortable) asking them if there was anything they could do for you. 
+What Isabel found to be helpful was asking alumni to talk about their post-oberlin experience, then at the very end (and only if you felt comfortable) asking them if there was anything they could do for you. 
 
 Example questions:
 	
@@ -59,7 +64,7 @@ Example questions:
 	- Whats your favorite/ least favorite thing about your company?
 	- What do you wish you had taken advantage of at Oberlin?
 	- What skills do you think I should improve before going on to working life?
-	- Do you have a favorite Meneory of Oberlin?
+	- Do you have a favorite Memory of Oberlin?
 	- Do you have anyone else I should talk to?
 	- Can I keep in touch and update you on my progress?
 
@@ -67,7 +72,8 @@ The last two are by far the most important - always ask these!
 	
 # On to the interviews!
 
-There are plenty of guides/ resources for these out there (including many in the guide linked at the top). Personally, I found **Cracking the Coding interview** good for theory, and **leetcode** good for practice.  
+There are plenty of guides/ resources for these out there (including many in the guide linked at the top). Personally, Isabel found **Cracking the Coding interview** good for theory, and **leetcode** good for practice. **Firecode** is also an interviewing practice site that will feed you questions. Do a variety of questions, don't just read the solution and assume you've got it all. Pay attention to time pressure and being able to clearly communicate and explain your thought process as well--if you can do mock interviews they can help a lot. Also, look at the company's Glassdoor page under interviews!! People will post how their interview experience was and what kind of questions they got. You can filter them to just see posts from software engineers etc. Obviously they won't post the exact question and you won't get the exact interview, but it's helpful to A. get an idea of the general process (do they want you to do a 3 hour robo interview?? do the questions tend to be super hard??) and B. get an idea of specific topics they like to ask.
+
 The single most helpful thing form CTCI is to fill in this table with 3-4 projects you've done, BEFORE the interviews, and memorize it well.
 
 | Common Questions  | Project 1 | Project 2 | Project 3 | Project 4 |
@@ -80,7 +86,7 @@ The single most helpful thing form CTCI is to fill in this table with 3-4 projec
 | Enjoyed Most				|     	|  		|      |      |
 | Conflicts with Teammates	|     	|  		|      |      |  
 
-Also, if you're like me and want to prepare for everything, here's a list of behavioral questions that have actually been asked in interviews
+Also, if you're like Isabel and want to prepare for everything, here's a list of behavioral questions that have actually been asked in interviews
 
 	Tell me about someone you admire?
 	Tell me about yourself?
